@@ -9,8 +9,8 @@ The project contains essential files for preliminary research and assessment of 
 
 # Folder Structure
 
-- [ ] [data](https://gitlab.com/tteixeira-mestrado/meteor-assessment/-/blob/main/data) - Contains all files of experiment. 
-- [ ] [data\Comparativo.xslx](https://gitlab.com/tteixeira-mestrado/meteor-assessment/-/blob/main/data/Comparativo.xlsx) - Comparison of mutations in the three refactoring sections. 
+- [ ] [data](https://gitlab.com/meteortool/assessment/-/blob/main/data) - Contains all files of experiment. 
+- [ ] [data\Comparativo.xslx](https://gitlab.com/meteortool/assessment/-/blob/main/data/Comparativo.xlsx) - Comparison of mutations in the three refactoring sections. 
 
 # Authors and acknowledgment
 Researchers: 
